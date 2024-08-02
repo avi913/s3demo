@@ -1,0 +1,5 @@
+i have creating the
+git branche and 
+i am checking the git status and 
+git diff
+and commint the changes
