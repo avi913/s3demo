@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+hello we are checking the git diff single file and git diff
+=======
+i have creating the
+git branche and 
+i am checking the git status and 
+git diff
+and commint the changes
+>>>>>>> a037237f1f5f34c5a25fe0fa188f7d3ee449b80b
