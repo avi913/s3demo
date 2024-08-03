@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 we are adding the git stash 1
+=======
+hello good mornig
+>>>>>>> 5b46a8ee16d00ef71542216003d7c4bda628b592

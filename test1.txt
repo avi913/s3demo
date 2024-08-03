@@ -1,6 +1,15 @@
+<<<<<<< HEAD
+=======
+hello we are checking the git diff single file and git diff
+>>>>>>> 5b46a8ee16d00ef71542216003d7c4bda628b592
 i have creating the
 git branche and 
 i am checking the git status and 
 git diff
 and commint the changes
+<<<<<<< HEAD
 we are adding the git stash 0
+=======
+
+we are checking the merge conflic from div2
+>>>>>>> 5b46a8ee16d00ef71542216003d7c4bda628b592
