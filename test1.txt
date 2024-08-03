@@ -4,3 +4,5 @@ git branche and
 i am checking the git status and 
 git diff
 and commint the changes
+
+we are checking the merge conflict
